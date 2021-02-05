@@ -1,5 +1,5 @@
 /**
-* # Terraform Subnet calculator
+* # Terraform Network Calculator
 * 
 * This terraform helps you to do some network and subnetwork calculations.
 * 
